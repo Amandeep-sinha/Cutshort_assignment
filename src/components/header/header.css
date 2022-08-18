@@ -1,0 +1,33 @@
+.circle {
+  width: 2rem;
+  height: 2rem;
+  background: white;
+  border: 0.1px solid #eaeef5;
+  color: black;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  border-radius: 1rem;
+  align-items: center;
+  z-index: 2;
+}
+.header {
+  display: flex;
+  width: 18rem;
+  height: 5rem;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+
+.tab {
+  display: flex;
+  flex-direction: row;
+}
+
+.hero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2rem;
+}

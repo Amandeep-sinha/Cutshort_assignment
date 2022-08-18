@@ -1,0 +1,32 @@
+.card-div {
+  display: flex;
+  gap: 1rem;
+}
+
+.card {
+  text-align: left;
+  padding: 1rem;
+  box-sizing: border-box;
+  width: 14rem;
+  border: 1px solid #eaeef5;
+  border-radius: 5px;
+}
+.card:hover {
+  border: 1px solid #664de5;
+  cursor: pointer;
+}
+.card: {
+  border: 1px solid blue;
+  cursor: pointer;
+}
+
+.card-div p {
+  font-size: small;
+  margin-bottom: 0;
+  margin-top: 8px;
+}
+
+.card img {
+  height: 25px;
+  width: auto;
+}

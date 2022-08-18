@@ -1,0 +1,70 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+span hr {
+  width: 1.55rem;
+  height: 0.5px;
+  background: #eaeef5;
+  border: 1px solid #eaeef5;
+}
+
+span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+label {
+  display: block;
+  text-align: left;
+  margin-top: 1.5rem;
+  font-size: 13px;
+}
+
+input {
+  width: 100%;
+  border: 1px solid silver;
+  padding: 15px;
+  box-sizing: border-box;
+  height: 2rem;
+  border-radius: 5px;
+}
+
+.beautify {
+  width: 50px;
+}
+
+h4 {
+  padding: 0;
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+.check {
+  margin-top: 2rem;
+  margin-bottom: 1.58rem;
+}
+
+.btn-new {
+  margin-top: 1rem;
+}
+
+.form-div {
+  max-width: 20rem;
+  margin: 0 auto;
+}
+
+.btn {
+  width: 100%;
+  padding: 10px;
+  margin-top: 2rem;
+  margin-bottom: 7rem;
+  box-sizing: border-box;
+  background: #664de5;
+  border: 1px solid #664de5;
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+}
