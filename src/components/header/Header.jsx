@@ -21,7 +21,7 @@ export const Header = (props) => {
               style={
                 value >= 1
                   ? { border: "1px solid #664de5", background: "#664de5" }
-                  : (style = {})
+                  : ({})
               }
             >
               <p>1</p>
@@ -30,7 +30,7 @@ export const Header = (props) => {
               style={
                 value >= 1
                   ? { background: "#664de5", border: "1px solid #664de5" }
-                  : (style = {})
+                  : ({})
               }
             />
           </span>
@@ -42,7 +42,7 @@ export const Header = (props) => {
               style={
                 value >= 2
                   ? { background: "#664de5", border: "1px solid #664de5" }
-                  : (style = {})
+                  : ({})
               }
             />
             <div
@@ -50,7 +50,7 @@ export const Header = (props) => {
               style={
                 value >= 2
                   ? { background: "#664de5", border: "1px solid #664de5" }
-                  : (style = {})
+                  : ({})
               }
             >
               <p>2</p>
@@ -59,7 +59,7 @@ export const Header = (props) => {
               style={
                 value >= 2
                   ? { background: "#664de5", border: "1px solid #664de5" }
-                  : (style = {})
+                  : ({})
               }
             />
           </span>
@@ -71,7 +71,7 @@ export const Header = (props) => {
               style={
                 value >= 3
                   ? { background: "#664de5", border: "1px solid #664de5" }
-                  : (style = {})
+                  : ({})
               }
             />
             <div
@@ -79,7 +79,7 @@ export const Header = (props) => {
               style={
                 value >= 3
                   ? { background: "#664de5", border: "1px solid #664de5" }
-                  : (style = {})
+                  : ({})
               }
             >
               <p>3</p>
@@ -88,7 +88,7 @@ export const Header = (props) => {
               style={
                 value >= 3
                   ? { background: "#664de5", border: "1px solid #664de5" }
-                  : (style = {})
+                  : ({})
               }
             />
           </span>
@@ -100,7 +100,7 @@ export const Header = (props) => {
               style={
                 value >= 4
                   ? { background: "#664de5", border: "1px solid #664de5" }
-                  : (style = {})
+                  : ({})
               }
             />
             <div
@@ -108,7 +108,7 @@ export const Header = (props) => {
               style={
                 value >= 4
                   ? { background: "#664de5", border: "1px solid #664de5" }
-                  : (style = {})
+                  : ({})
               }
             >
               <p>4</p>
